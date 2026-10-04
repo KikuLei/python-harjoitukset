@@ -17,7 +17,7 @@
 luku_tmp = input ('Anna minulle joku luku: ')
 luku = int(luku_tmp)
 if luku < 100:
-    print('Antamasi luku oli {luku} ja Lukusi on pienempi kuin 100')
+    print('Antamasi luku oli luku ja Lukusi on pienempi kuin 100')
 
 elif luku == 100:
     print('Antamasi luku oli luku ja Lukusi on sama kuin 100')

@@ -1,5 +1,5 @@
 #nimi = input ('Kerro nimesi: ')
-#print('Terve, ',nimi + "!")
+#print('Terve, 'nimi + "!")
 
 import math
 sade = float(input('Anna ympyrän säde: '))

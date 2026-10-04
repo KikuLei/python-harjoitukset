@@ -1,0 +1,8 @@
+PELIN OHJEET
+
+lennä = lennä valitsemaasi paikkaan
+tutki = tutki nykyistä paikkaan
+korjaa = korjaa avaruusaluksesi
+tankkaa = tankkaa avaruusaluksesi
+inventaario = näytä keräämäsi esineet
+lopeta = lopeta peli
