@@ -75,7 +75,7 @@ def nauta_inventaario():
               print(esine.nimi)
 
 #Tarkistaa löytyykö tietty esine pelaajan inventaariosta
-#Parametri ja paluuarvo
+#Funkito saa parametrina esineen nimen. for käy inventaarion esineen läpi. Jos oikea esine löytyy palautetaan True, Jos ei löydy palautetaan False.
 def tarkista_esine(esineen_nimi):
      for esine in pelaaja.esineet:
           if esine.nimi == esineen_nimi:
@@ -84,6 +84,7 @@ def tarkista_esine(esineen_nimi):
 
 
 #Yritetään korjata alus tarvittavien esineiden avulla
+#and tarkoittaa kaikkien kolmen ehdon täytyy olla True. return True -> pelaaja voitti -> pääsilmukka break -> peli loppuu
 #Fuktiot
 def korjaa_alus():
      if (tarkista_esine('Energia-akku')
@@ -102,6 +103,7 @@ def korjaa_alus():
 
 
 #Kolmas loppu: Avaruusoliot auttavat pelaajaa
+#Pelaajan pitää olla planeetalla ja pitää olla happisäiliö.
 def tutki_signaalia():
      if pelaaja.sijainti == planeetta and tarkista_esine('Happisäiliö'):
           print('Seuraat planeetalta kuuluvaa salaperäistä signaalia.')
@@ -200,6 +202,7 @@ while komento != 'lopeta':
     print('lopeta')
     komento = input('Anna komento: ')
 
+#valitsee mikä funktio suoritetaan käyttäjän kirjoittaman komennon perusteella.
     if komento == 'lennä':
             lenna()
     elif komento == 'korjaa':

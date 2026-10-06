@@ -16,3 +16,9 @@ Tein tehtävän 6
 Tein tehtävän 7
 ## Moduuli 8
 Tein tehtävän 8
+## Moduuli 9
+Tein tehtävän 9
+## Moduuli 10
+Tein tehtävän 10
+## Moduuli 11
+Tein tehtävän 11
