@@ -22,3 +22,9 @@ JavaScript-tiedosto.
 
 Tehtävät voi suorittaa avaamalla
 HTML-tiedoston selaimessa.
+
+## Moduuli 3
+tehtävä 1- 10 tehty.
+
+## Moduuli 4
+tehtävät 1 - 10 tehty.
