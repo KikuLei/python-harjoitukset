@@ -31,22 +31,15 @@ tehtävät 1- 10 tehty.
 
 ## Python Flask -palvelin
 
-Tehtävä 1 Alkuluvun tarkistaminen
-
-Tehtävä 2 Sanakirja
-
-Tehtävä 3 Sanojen lisääminen
+Tehtävä 1 
+Tehtävä 2 
+Tehtävä 3 
 
 ## Moduuli 5  AJAX ja rajapinnat
 
-Tehtävä 1 TV-sarjahaku
-
-Tehtävä 2 Fetch API
-
-Tehtävä 3 Hakutulosten näyttäminen
-
-Tehtävä 4 Puuttuvan kuvan korvaaminen
-
-Tehtävä 5 Satunnainen Chuck Norris -vitsi
-
-Tehtävä 6 Chuck Norris -vitsihaku
+Tehtävä 1 
+Tehtävä 2 
+Tehtävä 3 
+Tehtävä 4 
+Tehtävä 5 
+Tehtävä 6 
